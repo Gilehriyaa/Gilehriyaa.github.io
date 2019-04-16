@@ -1,4 +1,4 @@
 User-agent: *
-disallow: favicon.ico
+disallow: /favicon.ico
 
 sitemap: https://gilehriyaa.github.io/sitemap.xml
